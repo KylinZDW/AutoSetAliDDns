@@ -1,0 +1,10 @@
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\bin\Debug\Regions\endpoints.xml
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\bin\Debug\DDNSClient.Common.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\bin\Debug\DDNSClient.Common.pdb
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\bin\Debug\aliyun-net-sdk-alidns.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\bin\Debug\aliyun-net-sdk-core.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\bin\Debug\aliyun-net-sdk-alidns.pdb
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\bin\Debug\aliyun-net-sdk-core.pdb
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\obj\Debug\DDNSClient.Common.csprojResolveAssemblyReference.cache
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\obj\Debug\DDNSClient.Common.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\DDNSClient.Common\obj\Debug\DDNSClient.Common.pdb

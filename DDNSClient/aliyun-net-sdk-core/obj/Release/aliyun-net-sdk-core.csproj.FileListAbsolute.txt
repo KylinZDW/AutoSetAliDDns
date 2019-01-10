@@ -1,0 +1,11 @@
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-core\bin\Release\Regions\endpoints.xml
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-core\bin\Release\aliyun-net-sdk-core.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-core\bin\Release\aliyun-net-sdk-core.pdb
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.pdb
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-core\bin\Release\Regions\endpoints.xml
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-core\bin\Release\aliyun-net-sdk-core.dll
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-core\bin\Release\aliyun-net-sdk-core.pdb
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.csprojResolveAssemblyReference.cache
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.dll
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-core\obj\Release\aliyun-net-sdk-core.pdb

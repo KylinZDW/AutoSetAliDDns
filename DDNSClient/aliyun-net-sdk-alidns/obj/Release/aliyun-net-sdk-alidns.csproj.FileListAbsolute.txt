@@ -1,0 +1,16 @@
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-alidns\bin\Release\Regions\endpoints.xml
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-alidns.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-alidns.pdb
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-core.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-core.pdb
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.csprojResolveAssemblyReference.cache
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.dll
+A:\Download\8fa7a2faffea5d6adcfe3130963033a8\DDNSClient\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.pdb
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-alidns\bin\Release\Regions\endpoints.xml
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-alidns.dll
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-alidns.pdb
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-core.dll
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-alidns\bin\Release\aliyun-net-sdk-core.pdb
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.csprojResolveAssemblyReference.cache
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.dll
+A:\WorkSpace\VSProject\DDNSClient\aliyun-net-sdk-alidns\obj\Release\aliyun-net-sdk-alidns.pdb
