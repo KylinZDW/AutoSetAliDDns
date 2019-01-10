@@ -1,0 +1,2 @@
+# AutoSetAliDDns
+自动获取本机外网IP并注册到阿里云的域名解析上
